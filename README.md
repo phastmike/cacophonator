@@ -28,6 +28,9 @@ Top cover layout tryout
 
 ![Layout 1](kicad/outputs/v1/images/layout_top_cover.png)
 
+### BOM - Bill of Materials
+
+[BOM](icad/outputs/v1/cacophonator-bom.ods)
 
 ### Links
 
