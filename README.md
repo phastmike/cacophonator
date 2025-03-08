@@ -20,6 +20,10 @@ by Arthur Harrison.
 
 Designed with Kicad 9.0 
 
+Top cover layout tryout
+
+![Layout 1](kicad/outputs/v1/images/layout_top_cover.png)
+
 
 ### Links
 
