@@ -23827,6 +23827,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "TAP"
+		(at -204.95 74.95 0)
+		(layer "User.2")
+		(uuid "75c31178-92e1-439c-bb55-de7c09acd84b")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "OSC 2\n"
 		(at -561.905 489.96 0)
 		(layer "User.2")
@@ -24035,6 +24047,18 @@
 		(at -416.055 452.815 0)
 		(layer "User.2")
 		(uuid "c43d5d62-75c2-48d2-be47-74d708d4ae2f")
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "ON"
+		(at -132.5 74.6 0)
+		(layer "User.2")
+		(uuid "cb4c4dd3-0f30-4f7b-8523-c424c7f8f9db")
 		(effects
 			(font
 				(size 3 3)

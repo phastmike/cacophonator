@@ -6,9 +6,13 @@ by Arthur Harrison.
 
 ### Build iteration
 
+#### V1 THT
+
+Using THT (Through-hole) components
+
 ![Latest](kicad/outputs/v1/render/cacophonator_top.png)
 
-## Modifications
+## Modifications to the original
  
 - Added a potentiometer to control the output amplitude (volume)
    - Should be a **logaritmic (log) potentiometer**
