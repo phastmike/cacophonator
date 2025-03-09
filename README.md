@@ -30,6 +30,10 @@ Top cover layout tryout
 
 ![Layout 1](kicad/outputs/v1/images/layout_top_cover.png)
 
+Box
+
+![Layout 1](kicad/outputs/v1/images/box_jsl_2.jpg)
+
 ### BOM - Bill of Materials
 
 [BOM](icad/outputs/v1/cacophonator-bom.ods)
