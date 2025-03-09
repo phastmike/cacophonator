@@ -20,7 +20,7 @@ by Arthur Harrison.
    - Should be a **logaritmic (log) potentiometer**
 - Added DC Input jack with diodes for multiple, concurrent, power sources
    - Battery (9V)
-   - DC IN (12V)
+   - DC IN (9 or 12V))
 
 ## Notes
 
