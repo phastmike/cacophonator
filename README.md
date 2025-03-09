@@ -9,7 +9,7 @@ by Arthur Harrison.
 #### V1 THT
 
 - Using THT (Through-hole) components
-- Desgined for [JSL 166x116x70mm Box](https://www.leroymerlin.pt/produtos/caixa-estanque-10-boquilhas-153x102x67mm-ip66-cinzento-jsl-15918315.html)
+- Designed for [JSL 166x116x70mm Box](https://www.leroymerlin.pt/produtos/caixa-estanque-10-boquilhas-153x102x67mm-ip66-cinzento-jsl-15918315.html)
 
 
 ![Latest](kicad/outputs/v1/render/cacophonator_top.png)
