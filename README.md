@@ -30,7 +30,7 @@ Top cover layout tryout
 
 ![Layout 1](kicad/outputs/v1/images/layout_top_cover.png)
 
-Box
+Box (166x116x70mm)
 
 ![Layout 1](kicad/outputs/v1/images/box_jsl_2.jpg)
 
