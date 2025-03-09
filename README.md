@@ -24,7 +24,7 @@ by Arthur Harrison.
 
 ## Notes
 
-Designed with Kicad 9.0 
+Designed with KiCad 9.0 
 
 Top cover layout tryout
 
