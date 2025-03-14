@@ -22404,8 +22404,8 @@
 		(uuid "5f2caf8d-7cac-4302-941f-1440488b6c24")
 	)
 	(gr_circle
-		(center -124.275 113.075)
-		(end -116.275 119.075)
+		(center -124.9 113)
+		(end -116.9 119)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -22992,7 +22992,7 @@
 		)
 	)
 	(gr_text "OSC 4"
-		(at -131.2 114.775 0)
+		(at -131.825 114.7 0)
 		(layer "User.2")
 		(uuid "b693822d-361a-4a94-a4e1-f32aabd55bcf")
 		(effects

@@ -2808,9 +2808,9 @@
 		)
 		(uuid "8c22f7dc-6cb2-4280-b370-5b8035487f0f")
 	)
-	(text "Makes no sense to use\nreverse diode if using \ndiodes to mix power supplies"
+	(text "Makes no sense to use\nreverse diode if using \ndiodes to mix power supplies\n---\nIt can be used to add a discharge\nresistor that is added in-circuit\nvia pushbutton"
 		(exclude_from_sim no)
-		(at 107.95 161.036 0)
+		(at 108.204 165.862 0)
 		(effects
 			(font
 				(size 1.27 1.27)
