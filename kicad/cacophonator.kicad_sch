@@ -2612,6 +2612,18 @@
 		)
 	)
 	(rectangle
+		(start 176.276 133.35)
+		(end 242.316 152.4)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 03d1efda-c667-415c-be1c-5e39072fb850)
+	)
+	(rectangle
 		(start 60.96 119.38)
 		(end 142.24 156.21)
 		(stroke
@@ -2682,6 +2694,16 @@
 			(type none)
 		)
 		(uuid fadaf0de-0f12-4dc0-9273-f66faa457fb2)
+	)
+	(text "Oscillators\n-----------\n\nFrequency is inversely proportional to feedback resistance.\nWhen RV = 0 we sould have the highest frequency.\n\nImportant tip for potentiometer soldering on the chassis."
+		(exclude_from_sim no)
+		(at 208.28 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0596c893-e57d-404c-a48c-12c48ea9fa2e")
 	)
 	(text "OSC4\n160 Hz - 15 kHz"
 		(exclude_from_sim no)
