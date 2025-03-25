@@ -2,3 +2,4 @@
 *.swp
 .~lock*
 _autosave*
+private/
